@@ -8,3 +8,6 @@ JupyterLab and Jupyter Notebook IDE
 
 # Installation
 Python versions 3.3 or later require no auxillary installations
+
+# Usage and Content
+Open **risk_return_analysis.ipynb** from this repository to run code in Jupyter Notebook
