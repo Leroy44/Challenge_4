@@ -1,5 +1,5 @@
 # Challenge_4
-Analyzing risk-adjusted returns of famous active managers vs. a passive investment in the S&P500
+Analyzing risk-adjusted returns of famous active managers vs. a passive investment in the S&P500 (spx) using pandas
 
 # Technologies
 Python 3.8
