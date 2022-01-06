@@ -1,4 +1,4 @@
-# Challenge_4
+# Spuz vs Guruz
 Analyzing risk-adjusted returns of famous active managers vs. a passive investment in the S&P500 (spx) using pandas
 
 # Technologies
